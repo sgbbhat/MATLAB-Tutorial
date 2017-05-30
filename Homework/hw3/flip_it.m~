@@ -1,4 +1,0 @@
-function [ w ] = flip_it( v )
-x = ;
-w = (length(v):-1:1);
-end
